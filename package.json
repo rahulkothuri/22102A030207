@@ -1,0 +1,20 @@
+{
+  "name": "22102a030207",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulkothuri/22102A030207.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulkothuri/22102A030207/issues"
+  },
+  "homepage": "https://github.com/rahulkothuri/22102A030207#readme"
+}

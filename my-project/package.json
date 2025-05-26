@@ -1,0 +1,21 @@
+{
+  "name": "average-calculator",
+  "version": "1.0.0",
+  "description": "A Average calculator HTTP Microservice",
+  "main": "src/app.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rahulkothuri/22102A030207.git"
+  },
+  "keywords": [],
+  "author": "Rahul Kothuri",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
